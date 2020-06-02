@@ -1,0 +1,262 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display', serif;
+}
+/*START HEADER PART*/
+header{
+  padding: 40px 0;
+}
+.container{
+  width:92%;
+  margin: auto;
+  overflow: hidden;
+}
+.logo{
+  width: 9%;
+}
+.logo img{
+  width: 100%;
+  float: left;
+  margin-top: 8px;
+}
+.nav{
+  float: right;
+  width: 70%;
+}
+.nav nav ul{
+  float: right;
+}
+.nav nav li{
+  float: left;
+  display: block;
+  text-decoration: none;
+  padding-right: 120px;
+}
+.nav nav a{
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  text-transform: uppercase;
+}
+.nav nav a:hover{}
+.nav nav ul li:last-child{
+  padding-right: 0px;
+}
+/*END HEADER PART*/
+/*START BANNER PART*/
+.image-1 img{
+  width: 100%;
+  padding-bottom: 100px;
+}
+/*END BANNER PART*/
+/*START PHOTODIARY PART*/
+.wrapper{
+  width: 82%;
+  margin: auto;
+}
+.wrapper h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  margin-top: 0;
+}
+.wrapper h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.wrapper p{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+}
+.wrapper h5{
+  font-size: 12px;
+  font-weight: 400;
+  color: #818181;
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+/*END PHOTODIARY PART*/
+/*START LIFESTYLE PART*/
+.images{
+  overflow: hidden;
+}
+.images-1{
+  width: 45%;
+  float: left;
+  padding-right:10%;
+}
+.images-1 img{
+  width: 100%;
+}
+.images-1 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-1 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-1 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+padding-bottom: 125px;
+}
+.images-2{
+  width: 45%;
+  float: left;
+  padding-right: ;
+}
+.images-2 img{
+  width: 100%;
+}
+.images-2 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-2 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-2 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+}.images-3{
+  width: 45%;
+  float: left;
+  padding-right:10% ;
+}
+.images-3 img{
+  width: 100%;
+}
+.images-3 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-3 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-3 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+}.images-4{
+  width: 45%;
+  float: left;
+  padding-right: ;
+}
+.images-4 img{
+  width: 100%;
+}
+.images-4 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-4 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-4 p{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-bottom:125px; ;
+}
+
+
+/*END LIFESTYLE PART*/
+/*START SIGN UP PART*/
+.signup{
+  background:#f0f0f0;
+  height: 250px;
+  margin-bottom: 90px;
+}
+.sign-up{
+  width: 40%;
+  margin: auto;
+  
+}
+.sign-up h3{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  font-size: 30px;
+font-weight: 400;
+color: black;
+}
+form input{
+  border: none;
+  background:#f0f0f0;
+  width: 95%;
+}
+form i{
+  float: right;
+}
+.sign-up hr{
+  border: 0;
+  border-bottom: 1.3px solid black;
+}
+.button{
+  text-align: center;
+  margin-bottom:195px ;
+}
+.button button{
+  width:150px;
+  height: 51px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  background-color: white;
+  border: .4px solid black;
+}
+/*END SIGN UP PART*/
+/*START FOOTER PART*/
+.footer{
+  background:#f0f0f0;
+  height: 50px;
+  padding-top: 30px;
+}
+.terms{
+  float: left;
+  
+  
+}
+.terms p{
+  display: inline;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.terms p:first-child{
+  margin-left: 100px;
+}
+.follow{
+  float: right;
+  
+}
+.follow p{ 
+  display: inline;
+  font-size: 14px;font-weight: 400;
+}
+.follow i{
+  padding-left: 15px;
+  color: #818181;
+}
+/*END FOOTER PART*/
